@@ -1,6 +1,6 @@
 package br.com.vainaweb.backendt3.classes;
 
-public class EmpregadoTesteExercicio {
+public class Application {
 	
 	public static void main(String[] args) {
 		
