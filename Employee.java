@@ -1,6 +1,6 @@
 package br.com.vainaweb.backendt3.classes;
 
-public class EmpregadoExercicio {
+public class EmployeeClass {
 		
 		String nome;
 		String cpf;
